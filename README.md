@@ -1,4 +1,6 @@
-# Computer-Accessories-shop - BACKEND.
+# Computer-Accessories-shop
+
+BACKEND.
 
 I have developed a desktop application, precisely a static webpage using HTML,CSS, javascript, bootstrap framework. This site assumes a computer shop where buyers can view the different accessories of computers available for sale before they make their order.Buyers view the computer accessories through spinning the wheel by clicking a button named specification.This wheel rotates 90degrees in the anticlockwise direction taking 1second, to display each item. The direction and angle of rotation can still be adjusted.Besides, there's warm background, header and footer, spelling the joy of owning a computer and it's accessories.
 
@@ -8,16 +10,19 @@ To develop, test and run this project, you are required to clone the project in 
 
   
 BUILT USING:
-Javascript. 
-CSS
-HTML 
-Bootstrap v5.1
+  
+Javascript,
+CSS,
+HTML,
+Bootstrap v5.1,
 Markdown. 
 
-Author 
+Author:
+  
 edna-harriet : Harriet Auma Odima. 
 
 Acknowledgement:
+  
 Challenge proposed by Moringa school. 
 
 
