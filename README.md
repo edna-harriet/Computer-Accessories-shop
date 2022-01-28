@@ -18,8 +18,12 @@ Bootstrap v5.1,
 Markdown. 
 
 BRANCHES IN USE:
-Main branch: Readme.md, index.js
-Master branch: Moringa folder(images, index.html, styles.css)
+
+Main branch: 
+Readme.md, index.js
+
+Master branch: 
+Moringa folder(images, index.html, styles.css)
 
 Author:
   
