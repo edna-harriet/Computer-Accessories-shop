@@ -19,11 +19,8 @@ Markdown.
 
 BRANCHES IN USE:
 
-Main branch: 
-Readme.md, index.js
-
 Master branch: 
-Moringa folder(images, index.html, styles.css)
+
 
 Author:
   
