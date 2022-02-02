@@ -6,7 +6,7 @@ I have developed a desktop application, precisely a static webpage using HTML,CS
 
 GETTING STARTED:
 
-To develop, test and run this project, you are required to clone the project in your local machine, install all the dependencies like editor, and then execute the related COMMANDS on "localhost:8080". Note that some inline codes have been used. Also,note that CSS's bootstrap framework has been linked directly from the HTML code in the <head>tag.This means that for it to work,you will have to connect your local machine to the internet. Alternatively, you can download the bootstrap v5.1 and include it in the project folder. The page is designed to fit in small,medium or large screens. So,according to the size of your screen, select in the divs either col-sm, or col-md, or col-lg.Being that this project is a static webpage, no database is needed for it. 
+To develop, test and run this project, you are required to clone the project in your local machine, install all the dependencies like editor, and then execute the related COMMANDS on "localhost:8080". Note that some inline codes have been used. Also,note that CSS's bootstrap framework has been linked directly from the HTML code in the <head>tag.This means that for it to work,you will have to connect your local machine to the internet. Alternatively, you can download the bootstrap v5.1 and include it in the project folder. My work directory is updated with a folder of downloaded bootstrap.The page is designed to fit in small,medium or large screens. So,according to the size of your screen, select in the divs either col-sm, or col-md, or col-lg.Being that this project is a static webpage, no database is needed for it. 
 
   
 BUILT USING:
@@ -20,6 +20,12 @@ Markdown.
 BRANCHES IN USE:
 
 Master branch: 
+  
+CURRENT DIRECTORY IN USE:
+
+Computer-Accessories-shop-master
+  
+  
 
 
 Author:
